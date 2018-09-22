@@ -7,12 +7,15 @@ Main Page
 Checkout page
 Cart page
 Account log in/ sign out page
+
+
 In the categories folder, it contains the pages for the different store:
 
 916 Laksa
 Xin Xin Fishball Noodles
 Ah Huat Chicken Rice
 Penange Delights
+
 In the food folder, it contains all individual dishes and the reviews.
 
 TO START UP THE WEBSITE:
